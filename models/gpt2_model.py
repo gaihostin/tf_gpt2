@@ -1,7 +1,8 @@
 import os 
 from tensorflow.python.framework import tensor_shape 
 
-
+from layers.attention_layer import * 
+from layers.
 
 
 class Gpt2(tf.keras.Model):
